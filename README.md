@@ -410,7 +410,6 @@ SOFTWARE.
 - Institution: Northeastern University
 - Course: INFO 7390 - Advanced Data Science and Architecture
 - Email: talwar.p@northeastern.edu
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
@@ -439,8 +438,6 @@ If you use this tutorial in your work, please cite:
   author = {Talwar, Prashanth},
   title = {Advanced Data Visualization: Interactive Dashboards and Perception-Based Design},
   year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/YOUR_USERNAME/advanced-data-visualization}
 }
 ```
 
