@@ -222,37 +222,6 @@ Pre/Post Tutorial Performance (Pilot Study, n=15):
 
 ---
 
-## 📂 Project Structure
-
-```
-advanced-data-visualization/
-│
-├── Teaching_Data_Science_Concepts.ipynb    # Main tutorial notebook
-├── README.md                                # This file
-├── requirements.txt                         # Python dependencies
-├── environment.yml                          # Conda environment file
-├── LICENSE                                  # MIT License
-│
-├── assets/                                  # Images and media
-│   ├── banner.png
-│   ├── bad_viz_examples.png
-│   └── good_viz_examples.png
-│
-├── data/                                    # Sample datasets (generated synthetically)
-│   └── synthetic_sales_data.csv
-│
-├── docs/                                    # Documentation
-│   ├── pedagogical_report.pdf              # 8-page teaching report
-│   ├── video_script.md                     # 10-minute video script
-│   └── exercises.md                        # Practice problems with solutions
-│
-└── examples/                                # Standalone examples
-    ├── accessibility_demo.py
-    ├── performance_optimization.py
-    └── storytelling_dashboard.py
-```
-
----
 
 ## 🛠️ Technical Stack
 
