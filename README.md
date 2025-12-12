@@ -60,7 +60,7 @@ This tutorial bridges the gap between basic charting and professional, decision-
 - **Show (2:45-8:45)**: Live code walkthrough with bad vs. good examples
 - **Try (8:45-10:00)**: Hands-on exercises and debugging tips
 
-*Replace `[YOUR_VIDEO_LINK_HERE](https://youtu.be/gx52JaMcoSk)` with your YouTube/Vimeo link*
+*Replace `(https://youtu.be/gx52JaMcoSk)` with your YouTube/Vimeo link*
 
 ---
 
