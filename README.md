@@ -53,7 +53,7 @@ This tutorial bridges the gap between basic charting and professional, decision-
 
 **10-Minute Show-and-Tell Walkthrough**
 
-[![Video Tutorial](https://img.shields.io/badge/▶️_Watch_Tutorial-10_minutes-red?style=for-the-badge)](YOUR_VIDEO_LINK_HERE)
+[![Video Tutorial](https://img.shields.io/badge/▶️_Watch_Tutorial-10_minutes-red?style=for-the-badge)]((https://youtu.be/gx52JaMcoSk))
 
 **Segments:**
 - **Explain (0:00-2:45)**: Cognitive science foundations and real-world applications
